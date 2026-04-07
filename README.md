@@ -1,3 +1,4 @@
+Hi there 👋
 I am an economist, designing and building data-driven solutions that turn complex data into actionable business insights to improve sales performance and profitability.
 
 My approach combines strong quantitative expertise (statistical analysis, modeling, data visualization) with a solid understanding of B2B business challenges.
