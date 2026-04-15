@@ -1,4 +1,4 @@
-# 🚀 Portfolio – Data & Business Analytics
+# Portfolio – Data & Business Analytics
 
 ## 👋 À propos de moi
 
