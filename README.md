@@ -14,6 +14,14 @@ Avec une maîtrise des outils comme **Excel, Power BI, SQL et R**, je développe
 
 ---
 
+## 💼 Expérience & Formation
+
+Expérience en analyse de données et performance commerciale acquise notamment chez **Egis**, où j’ai contribué au pilotage des KPI commerciaux, à la fiabilisation des données CRM et à la création de dashboards Power BI, ainsi qu’à **Neoma Business School**, avec des travaux avancés de structuration de bases de données, d’analyses statistiques et de modélisation économique.
+
+Formation en économie (Licence & Master – Université Paris 1 Panthéon-Sorbonne) avec une forte orientation quantitative : **mathématiques avancées, statistiques, probabilités, économétrie appliquée (R, SAS)** et techniques d’évaluation. Complétée par des enseignements en **finance d’entreprise, finance internationale** et des modules de spécialisation en **gestion de projet IT (AMOA), compliance, logistique et gestion des PME**.
+
+---
+
 ## 🎯 Objectif
 
 Construire des analyses et dashboards permettant de :
