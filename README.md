@@ -1,5 +1,4 @@
-# 🚀 Handahamé DIA – Economic & Business Analytics Portfolio
-
+**Handahamé DIA – Economic & Business Analytics Portfolio**
 ## 👋 About me
 Welcome to my portfolio.
 
