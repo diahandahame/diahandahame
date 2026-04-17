@@ -1,4 +1,5 @@
 **Handahamé DIA – Economic & Business Analytics Portfolio**
+
 **👋 About me**
 Welcome to my portfolio.
 I am an economist with a strong quantitative background in econometrics, statistics, and data analysis, currently focused on business performance and data-driven decision-making.
