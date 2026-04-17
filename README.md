@@ -1,10 +1,24 @@
 # 🚀 Handahamé DIA – Economic & Business Analytics Portfolio
 
 ## 👋 About me
-I am an economist specialized in business performance analysis and pricing, with a strong quantitative background in econometrics and statistical modeling.
 
-I help business teams **turn data into actionable decisions** by combining analytical rigor with a deep understanding of economic and commercial challenges.
+Welcome to my portfolio.
 
+I am an economist with a strong quantitative background in econometrics and statistical analysis, currently focused on business performance and data-driven decision-making.
+
+Through my academic background and professional experience, I have developed solid skills in data analysis, KPI monitoring, and performance evaluation, enabling me to translate data into actionable business insights.
+I am now looking to move into **analytical roles at the intersection of data and business**, such as:
+- Business Analyst  
+- Sales Analyst  
+- Commercial Performance Analyst  
+- Pricing Analyst  
+where I can contribute to:
+- performance analysis and KPI monitoring  
+- data-driven decision-making  
+- pricing and revenue optimization  
+- identification of growth and profitability levers  
+
+My objective is to leverage data and analytical tools to support **strategic business decisions** in competitive environments.
 ---
 
 ## 🎯 What I bring
