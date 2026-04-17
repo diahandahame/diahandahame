@@ -43,7 +43,9 @@ My objective is to leverage data and analytical tools to support **strategic and
 
 ---
 **💼Experience**
+
 **Commercial Performance Analyst**
+
 **Egis Group** - Jul 2023 to Dec 2023 | Guyancourt  
 - Extracted, structured, and improved CRM data quality  
 - Developed **Power BI and Excel dashboards** to monitor commercial KPIs  
