@@ -1,42 +1,46 @@
 title: "Handahamé DIA"
-description: "Data & Business Analyst | Sales Performance & Pricing"
+description: " Handahamé DIA – Economic & Business Analytics Portfolio"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
 
-# Langue
+# Language
 locale: "en-US"
 
-# Auteur (affiché sur le site)
+# Author profile
 author:
   name: "Handahamé DIA"
   avatar: "/img/nny.jpg"
-  bio: "Data Analyst specialized in commercial performance & pricing"
+  bio: "Economist specialized in business performance, analytics & pricing"
   location: "France"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/handahame-dia/"
 
-# Affichage
-minimal_mistakes_skin: "default"  # ou "dark", "air", "contrast"
+# Theme skin
+minimal_mistakes_skin: "default"  # options: air, dark, contrast, default
 
-# Navigation (menu)
-nav:
-  - title: "Home"
-    url: /
-  - title: "Projects"
-    url: /projects/
-  - title: "About"
-    url: /about/
+# Navigation (IMPORTANT: correct format for Minimal Mistakes)
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
 
-# Defaults pages
+# Defaults
 defaults:
   - scope:
       path: ""
-      type: "pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+  - scope:
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
