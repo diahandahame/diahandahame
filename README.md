@@ -100,5 +100,7 @@ Ou toute fonction analytique permettant de combiner données, compréhension bus
 
 ## Me contacter
 Email : diahandahame86@gmail.com  
+
 LinkedIn : https://www.linkedin.com/in/handahame-dia/
+
 Localisation : Fontenay-aux-Roses, France  
