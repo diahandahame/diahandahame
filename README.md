@@ -17,14 +17,14 @@ My academic background in economics, with a strong quantitative focus (statistic
 ---
 
 ## What I do (what I bring)
-Analysis and interpretation of commercial and economic data  
-Design and monitoring of performance KPIs  
-Data structuring and quality improvement  
-Pricing analysis and offer optimization  
-Reporting and business-oriented insights  
-Identification of growth and performance improvement levers  
-Collaboration with business and data teams  
-Translation of complex data into actionable recommendations  
+- Analysis and interpretation of commercial and economic data  
+- Design and monitoring of performance KPIs  
+- Data structuring and quality improvement  
+- Pricing analysis and offer optimization  
+- Reporting and business-oriented insights  
+- Identification of growth and performance improvement levers  
+- Collaboration with business and data teams  
+- Translation of complex data into actionable recommendations  
 
 ---
 
