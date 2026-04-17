@@ -1,124 +1,103 @@
-# Handahamé DIA - Portfolio
+# 🚀 Handahamé DIA – Economic & Business Analytics Portfolio
 
-Welcome to my portfolio.
+## 👋 About me
+I am an economist specialized in business performance analysis and pricing, with a strong quantitative background in econometrics and statistical modeling.
 
-I am Handahamé DIA, a data analyst focused on business performance and pricing, with a background in quantitative economics and experience in data analysis.  
-I help business teams turn data into actionable decisions by combining statistical tools with a strong understanding of business and economic challenges.
-
----
-
-## About me
-My approach is built on a dual skill set:
-- Data analysis and statistical modeling  
-- Understanding of business and economic challenges  
-
-My academic background in economics, with a strong quantitative focus (statistics, econometrics), allows me to approach data problems with rigor while connecting them to real business performance and decision-making needs.
+I help business teams **turn data into actionable decisions** by combining analytical rigor with a deep understanding of economic and commercial challenges.
 
 ---
 
-## What I do (what I bring)
+## 🎯 What I bring
 - Analysis and interpretation of commercial and economic data  
 - Design and monitoring of performance KPIs  
-- Data structuring and quality improvement  
 - Pricing analysis and offer optimization  
-- Reporting and business-oriented insights  
-- Identification of growth and performance improvement levers  
-- Collaboration with business and data teams  
+- Data structuring and quality improvement  
+- Business-oriented reporting and insights  
+- Identification of growth and profitability levers  
 - Translation of complex data into actionable recommendations  
 
 ---
 
-## Experience
+## 📂 Projects
 
-### Research Assistant – Data Analyst  
-Neoma Business School - January 2025 to October 2025, Reims  
-- Built, structured and improved economic databases  
-- Developed descriptive and explanatory statistical models  
-- Conducted economic studies and produced decision-oriented insights  
-- Managed and analyzed large datasets  
-- Collaborated with cross-functional teams on data projects  
+### 📊 Commercial Performance Dashboard
+**Objective:** Provide a clear and actionable view of sales performance  
+**Key contributions:**
+- Dashboard creation and KPI tracking  
+- Country-level performance analysis  
+- Customer satisfaction visualization  
+- Business insights to support decision-making  
+
+**Tools:** Excel  
+
+🔗 Link: coming soon  
 
 ---
 
+## 💼 Experience
 ### Commercial Performance Analyst  
-Egis Group - July 2023 to December 2023, Guyancourt  
+**Egis Group** - Jul 2023 to Dec 2023 | Guyancourt  
 - Extracted, structured and improved CRM data quality  
-- Built Power BI dashboards to monitor performance KPIs  
-- Analyzed trends and identified improvement opportunities  
-- Led a customer satisfaction survey project (Skeepers): design, analysis and recommendations  
+- Built **Power BI dashboards** to monitor performance KPIs  
+- Analyzed trends and identified optimization opportunities  
+- Led a customer satisfaction survey project (design, analysis, recommendations)  
 - Identified friction points in customer journeys  
 - Contributed to commercial digitalization projects  
 
 ---
 
-## Objective
-To develop analytical tools and insights that help business teams:
-- better understand their performance  
-- optimize decision-making (pricing, offer, strategy)  
-- identify growth and profitability opportunities
+### Research Assistant - Data Analyst  
+**Neoma Business School** - Jan 2025 to Oct 2025 | Reims  
+- Built and structured economic databases  
+- Developed **statistical and econometric models**  
+- Conducted economic analyses and produced decision-oriented insights  
+- Managed and analyzed large datasets  
+- Collaborated with cross-functional teams on data projects  
 
 ---
 
-## Technical stack
-Excel (Pivot Tables, modeling, data analysis)  
-Power BI (dashboards and data visualization)  
-SQL (data extraction, joins, aggregation)  
-R / SAS (statistical analysis)  
-Python (data analysis)  
-Microsoft Dynamics (CRM)  
-Microsoft Office  
-
----
-
-## Projects
-
-### Commercial performance dashboard
-Objective: provide a clear and actionable view of sales performance  
-
-Content:  
-- Dashboard creation  
-- KPI tracking  
-- Country-level analysis  
-- Customer satisfaction visualization  
-
-Tools: Excel  
-
-Link: coming soon  
-
----
-
-## Education
-### Master’s Degree in International Economics & Trade  
-Paris 1 Panthéon-Sorbonne University  
-2021 – 2023  
-Strong quantitative focus: econometrics (R, SAS), statistics, probability, advanced mathematics, quantitative methods (policy evaluation), insurance economics (microeconomics), finance and international trade  
-Additional coursework: IT project management (AMOA), supply chain, compliance and export control, transport economics  
-### Bachelor’s Degree in Economics  
-Paris 1 Panthéon-Sorbonne University  
-
----
-
-## Analytical approach
-My projects follow a business-oriented methodology:
+## 🧠 Analytical approach
+My work follows a structured, business-oriented methodology:
 1. Understanding the business need  
 2. Data structuring and cleaning  
 3. Exploratory analysis  
 4. Modeling or visualization  
-5. Actionable recommendations
-    
----
-
-## What I’m looking for
-Sales Analyst  
-Pricing Analyst  
-Business Analyst  
-Business-oriented Data Analyst  
-Or any analytical role combining data, business understanding and decision-making.
+5. Delivering actionable recommendations  
 
 ---
 
-## Contact
+## 🧰 Technical stack
+- **Excel** (Pivot Tables, modeling, data analysis)  
+- **Power BI** (dashboards and data visualization)  
+- **SQL** (data extraction, joins, aggregation)  
+- **R / SAS** (statistical analysis, econometrics)  
+- **Python** (data analysis)  
+- **Microsoft Dynamics (CRM)**  
+- **Microsoft Office**  
 
-Email: diahandahame86@gmail.com  
-LinkedIn: https://www.linkedin.com/in/handahame-dia/  
-Location: Fontenay-aux-Roses, France  
+---
+
+## 🎓 Education
+**Master’s Degree in International Economics and Envionment (Trade)**  
+Paris 1 Panthéon-Sorbonne University (2021 - 2023)
+Strong quantitative focus: Econometrics (R, SAS); Statistics and probability; Advanced mathematics; Quantitative methods (policy evaluation).
+Additional coursework: Corporate finance and international finance; IT project management (AMOA); Supply chain and logistics; Compliance and export control.
+
+**Bachelor’s Degree in Economics**  
+Paris 1 Panthéon-Sorbonne University  
+
+---
+
+## 💼 What I’m looking for
+- Sales Analyst  
+- Pricing Analyst  
+- Business Analyst  
+- Business-oriented Data Analyst  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: diahandahame86@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/handahame-dia/  
+- 📍 Location: Fontenay-aux-Roses, France  
