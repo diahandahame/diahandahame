@@ -1,5 +1,4 @@
 # 🚀 Handahamé DIA – Economic & Business Analytics Portfolio
-
 ## 👋 About me
 
 Welcome to my portfolio.
@@ -9,7 +8,7 @@ I am an economist with a strong quantitative background in econometrics and stat
 Through my academic background and professional experience, I have developed solid skills in data analysis, KPI monitoring, and performance evaluation, enabling me to translate data into actionable business insights.
 I am now looking to move into **analytical roles at the intersection of data and business**, such as:
 - Business Analyst  
-- Sales Analyst  
+- Sales Analyst   
 - Commercial Performance Analyst  
 - Pricing Analyst  
 where I can contribute to:
