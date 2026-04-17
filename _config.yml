@@ -1,5 +1,6 @@
 title: "Handahamé DIA "
 logo: img/nny.jpg
 description: "From Data to Business Insights | Analytics & Pricing Portfolio"
+show download : true
 theme: jekyll-theme-minimal
 lang: en
