@@ -1,121 +1,104 @@
-# Portfolio – Data & Business Analytics
+# Handahamé DIA - Portfolio
 
-## 👋 À propos de moi
+Bienvenue sur mon portfolio.
 
-Sales Analyst spécialisé en **analyse de la performance commerciale et pricing**, j’aide les équipes business à transformer la donnée en décisions stratégiques.
+Je suis Handahamé DIA, analyste de données orienté performance commerciale et pricing, avec une formation d’économiste quantitatif et une expérience en exploitation de données.  
+J’aide les équipes business à transformer la donnée en décisions concrètes, en mobilisant des outils statistiques et une compréhension des enjeux économiques et opérationnels.
 
-Mon approche combine :
-- 📊 Analyse de données & modélisation  
-- 💰 Optimisation du pricing et des offres  
-- 📈 Pilotage de la performance commerciale  
-- 🤝 Compréhension des enjeux business  
+## À propos de moi
+Mon approche repose sur une double compétence :
 
-Avec une maîtrise des outils comme **Excel, Power BI, SQL et R**, je développe des solutions analytiques orientées impact.
+- Analyse de données et modélisation statistique  
+- Compréhension des enjeux business et économiques  
 
----
+Ma formation en économie, avec une forte dimension quantitative (statistiques, économétrie), me permet d’aborder les problématiques data avec rigueur, tout en les reliant à des enjeux concrets de performance et de prise de décision.
 
-## 💼 Expérience & Formation
+## Ce que je sais (ce que j'apporte)
 
-Expérience en analyse de données et performance commerciale acquise notamment chez **Egis**, où j’ai contribué au pilotage des KPI commerciaux, à la fiabilisation des données CRM et à la création de dashboards Power BI, ainsi qu’à **Neoma Business School**, avec des travaux avancés de structuration de bases de données, d’analyses statistiques et de modélisation économique.
+Analyse et exploitation de données commerciales et économiques  
+Construction et suivi de KPI de performance  
+Structuration et fiabilisation de bases de données  
+Analyse pricing et optimisation des offres  
+Réalisation de reportings et synthèses décisionnelles  
+Détection de leviers de croissance et d’amélioration  
+Collaboration avec des équipes business et data  
+Traduction de données complexes en recommandations opérationnelles  
 
-Formation en économie (Licence & Master – Université Paris 1 Panthéon-Sorbonne) avec une forte orientation quantitative : **mathématiques avancées, statistiques, probabilités, économétrie appliquée (R, SAS)** et techniques d’évaluation. Complétée par des enseignements en **finance d’entreprise, finance internationale** et des modules de spécialisation en **gestion de projet IT (AMOA), compliance, logistique et gestion des PME**.
+## Expérience
 
----
+### Assistant de Recherche - Analyste de données
+Neoma Business School - Janvier 2025 à octobre 2025, Reims  
+- Construction, structuration et fiabilisation de bases de données économiques  
+- Développement de modèles statistiques descriptifs et explicatifs  
+- Réalisation d’études économiques et de synthèses décisionnelles  
+- Gestion et analyse de bases de données volumineuses  
+- Collaboration avec des équipes pluridisciplinaires  
 
-## 🎯 Objectif
+### Analyste de la performance commerciale
+Egis Group - Juillet 2023 à décembre 2023, Guyancourt  
+- Extraction, structuration et fiabilisation de données commerciales issues du CRM  
+- Conception de tableaux de bord Power BI pour le suivi des KPI  
+- Analyse des tendances et identification d’opportunités d’amélioration  
+- Gestion d’un projet d’enquête de satisfaction client (Skeepers)  
+- Identification de points de friction dans les parcours clients  
+- Contribution à des projets de digitalisation commerciale  
 
-Construire des analyses et dashboards permettant de :
-- Identifier des leviers de croissance du chiffre d’affaires  
-- Optimiser la rentabilité et les stratégies de pricing  
-- Améliorer la prise de décision des équipes commerciales  
+## Objectif
+Développer des analyses et outils décisionnels permettant aux équipes business de :
+- mieux comprendre leur performance  
+- optimiser leurs décisions (pricing, offre, stratégie)  
+- identifier des leviers de croissance et de rentabilité
+  
+## Stack technique
+Excel (TCD, modélisation, analyse de données)  
+Power BI (dashboards et data visualisation)  
+SQL (extraction, jointures, agrégation)  
+R / SAS (analyses statistiques)  
+Python (analyses de données)  
+Microsoft Dynamics (CRM)  
+Pack Office  
 
----
+## Projets
 
-## 🧰 Stack technique
+### Mini dashboard de suivi des performances commerciales
+Objectif : fournir une vision claire et exploitable des ventes  
 
-- **Excel** : TCD, modélisation, analyse de données  
-- **Power BI** : dashboards interactifs, data visualisation  
-- **SQL** : extraction, jointures, agrégation  
-- **R / SAS** : analyses statistiques  
-- **CRM (Microsoft Dynamics)** : données commerciales  
-
----
-
-## 📂 Projets
-
-### 📊 Analyse de la performance commerciale & optimisation pricing
-
-**Objectif :** analyser les ventes et identifier des leviers d’optimisation du chiffre d’affaires et de la marge  
-
-**Contenu :**
-- Nettoyage et structuration des données commerciales  
-- Analyse des KPI (CA, volume, marge)  
-- Identification des produits sous/sur-performants  
-- Analyse du lien prix / volume  
-- Recommandations business  
-
-**Outils :** Excel (TCD, modélisation)  
-
-🔗 [Voir le projet](#)
-
----
-
-### 📈 Dashboard de suivi des performances commerciales
-
-**Objectif :** fournir une vision claire et interactive des performances commerciales  
-
-**Contenu :**
-- Création de dashboards Power BI  
+Contenu :  
+- Création d’un dashboard  
 - Suivi des KPI business  
-- Analyse par région / canal / produit  
-- Visualisation des tendances  
+- Analyse par pays  
+- Visualisation de la satisfaction client  
 
-**Outils :** Power BI  
+Outils : Excel  
 
-🔗 [Voir le projet](#)
+Lien : à venir  
 
----
+## Formation
 
-### 📊 Analyse de données économiques
+### Master 2 Économie Internationale - Commerce  
+Université Paris 1 Panthéon-Sorbonne  
+2021 – 2023  
+Formation à dominante quantitative : économétrie(R, SAS), statistiques et Probabilités, Maths vancées, Techniques quantitatives (évaluatio n de politiques), Assurance (Microéconomie), Finance et commerce Internationale 
+Complétée par des enseignements en AmOA (gestion de projet Informatique), supply chain, compliance et export control et économie des transports
 
-**Objectif :** analyser des tendances économiques à partir de bases de données structurées  
+### Licence Économie - Université Paris 1 Panthéon-Sorbonne  
 
-**Contenu :**
-- Construction et nettoyage de bases de données  
-- Analyses statistiques descriptives et explicatives  
-- Visualisation des tendances  
-- Synthèse décisionnelle  
-
-**Outils :** R, Excel  
-
-🔗 [Voir le projet](#)
-
----
-
-## 🧠 Approche analytique
-
+## Approche analytique
 Mes projets suivent une logique orientée business :
-
 1. Compréhension du besoin métier  
-2. Fiabilisation et structuration des données  
+2. Structuration et fiabilisation des données  
 3. Analyse exploratoire  
-4. Modélisation / visualisation  
+4. Modélisation ou visualisation  
 5. Recommandations opérationnelles  
 
----
+## Ce que je recherche
+Sales Analyst  
+Pricing Analyst  
+Business Analyst  
+Data Analyst orienté business  
+Ou toute fonction analytique permettant de combiner données, compréhension business et prise de décision.
 
-## 💼 Ce que je recherche
-
-Postes en :
-- Sales Analyst  
-- Pricing Analyst  
-- Business Analyst  
-- Analyste performance commerciale  
-
----
-
-## 📫 Me contacter
-
-- 📧 Email : diahandahame86@gmail.com  
-- 📍 Localisation : Fontenay-aux-Roses, France  
-- 💼 LinkedIn : (à ajouter)
+## Me contacter
+Email : diahandahame86@gmail.com  
+LinkedIn : https://www.linkedin.com/in/handahame-dia/
+Localisation : Fontenay-aux-Roses, France  
