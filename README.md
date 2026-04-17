@@ -2,8 +2,9 @@
 
 Welcome to my portfolio.
 
-I am Handahamé DIA, a **data analyst focused on business performance and pricing**, with a background in **quantitative economics** and experience in data analysis.  
+I am Handahamé DIA, a data analyst focused on business performance and pricing, with a background in quantitative economics and experience in data analysis.  
 I help business teams turn data into actionable decisions by combining statistical tools with a strong understanding of business and economic challenges.
+
 ---
 
 ## About me
@@ -30,7 +31,7 @@ Translation of complex data into actionable recommendations
 ## Experience
 
 ### Research Assistant – Data Analyst  
-Neoma Business School — January 2025 to October 2025, Reims  
+Neoma Business School - January 2025 to October 2025, Reims  
 - Built, structured and improved economic databases  
 - Developed descriptive and explanatory statistical models  
 - Conducted economic studies and produced decision-oriented insights  
@@ -40,7 +41,7 @@ Neoma Business School — January 2025 to October 2025, Reims
 ---
 
 ### Commercial Performance Analyst  
-Egis Group — July 2023 to December 2023, Guyancourt  
+Egis Group - July 2023 to December 2023, Guyancourt  
 - Extracted, structured and improved CRM data quality  
 - Built Power BI dashboards to monitor performance KPIs  
 - Analyzed trends and identified improvement opportunities  
@@ -54,7 +55,8 @@ Egis Group — July 2023 to December 2023, Guyancourt
 To develop analytical tools and insights that help business teams:
 - better understand their performance  
 - optimize decision-making (pricing, offer, strategy)  
-- identify growth and profitability opportunities  
+- identify growth and profitability opportunities
+
 ---
 
 ## Technical stack
@@ -82,6 +84,7 @@ Content:
 Tools: Excel  
 
 Link: coming soon  
+
 ---
 
 ## Education
@@ -101,7 +104,8 @@ My projects follow a business-oriented methodology:
 2. Data structuring and cleaning  
 3. Exploratory analysis  
 4. Modeling or visualization  
-5. Actionable recommendations  
+5. Actionable recommendations
+    
 ---
 
 ## What I’m looking for
