@@ -1,106 +1,143 @@
 # Handahamé DIA - Portfolio
 
-Bienvenue sur mon portfolio.
+Welcome to my portfolio.
 
-Je suis Handahamé DIA, analyste de données orienté performance commerciale et pricing, avec une formation d’économiste quantitatif et une expérience en exploitation de données.  
-J’aide les équipes business à transformer la donnée en décisions concrètes, en mobilisant des outils statistiques et une compréhension des enjeux économiques et opérationnels.
+I am Handahamé DIA, a **data analyst focused on business performance and pricing**, with a background in **quantitative economics** and experience in data analysis.  
+I help business teams turn data into actionable decisions by combining statistical tools with a strong understanding of business and economic challenges.
 
-## À propos de moi
-Mon approche repose sur une double compétence :
+---
 
-- Analyse de données et modélisation statistique  
-- Compréhension des enjeux business et économiques  
+## About me
 
-Ma formation en économie, avec une forte dimension quantitative (statistiques, économétrie), me permet d’aborder les problématiques data avec rigueur, tout en les reliant à des enjeux concrets de performance et de prise de décision.
+My approach is built on a dual skill set:
 
-## Ce que je sais (ce que j'apporte)
+- Data analysis and statistical modeling  
+- Understanding of business and economic challenges  
 
-Analyse et exploitation de données commerciales et économiques  
-Construction et suivi de KPI de performance  
-Structuration et fiabilisation de bases de données  
-Analyse pricing et optimisation des offres  
-Réalisation de reportings et synthèses décisionnelles  
-Détection de leviers de croissance et d’amélioration  
-Collaboration avec des équipes business et data  
-Traduction de données complexes en recommandations opérationnelles  
+My academic background in economics, with a strong quantitative focus (statistics, econometrics), allows me to approach data problems with rigor while connecting them to real business performance and decision-making needs.
 
-## Expérience
+---
 
-### Assistant de Recherche - Analyste de données
-Neoma Business School - Janvier 2025 à octobre 2025, Reims  
-- Construction, structuration et fiabilisation de bases de données économiques  
-- Développement de modèles statistiques descriptifs et explicatifs  
-- Réalisation d’études économiques et de synthèses décisionnelles  
-- Gestion et analyse de bases de données volumineuses  
-- Collaboration avec des équipes pluridisciplinaires  
+## What I do (what I bring)
 
-### Analyste de la performance commerciale
-Egis Group - Juillet 2023 à décembre 2023, Guyancourt  
-- Extraction, structuration et fiabilisation de données commerciales issues du CRM  
-- Conception de tableaux de bord Power BI pour le suivi des KPI  
-- Analyse des tendances et identification d’opportunités d’amélioration  
-- Gestion d’un projet d’enquête de satisfaction client (Skeepers)  
-- Identification de points de friction dans les parcours clients  
-- Contribution à des projets de digitalisation commerciale  
+Analysis and interpretation of commercial and economic data  
+Design and monitoring of performance KPIs  
+Data structuring and quality improvement  
+Pricing analysis and offer optimization  
+Reporting and business-oriented insights  
+Identification of growth and performance improvement levers  
+Collaboration with business and data teams  
+Translation of complex data into actionable recommendations  
 
-## Objectif
-Développer des analyses et outils décisionnels permettant aux équipes business de :
-- mieux comprendre leur performance  
-- optimiser leurs décisions (pricing, offre, stratégie)  
-- identifier des leviers de croissance et de rentabilité
-  
-## Stack technique
-Excel (TCD, modélisation, analyse de données)  
-Power BI (dashboards et data visualisation)  
-SQL (extraction, jointures, agrégation)  
-R / SAS (analyses statistiques)  
-Python (analyses de données)  
+---
+
+## Experience
+
+### Research Assistant – Data Analyst  
+Neoma Business School — January 2025 to October 2025, Reims  
+
+- Built, structured and improved economic databases  
+- Developed descriptive and explanatory statistical models  
+- Conducted economic studies and produced decision-oriented insights  
+- Managed and analyzed large datasets  
+- Collaborated with cross-functional teams on data projects  
+
+---
+
+### Commercial Performance Analyst  
+Egis Group — July 2023 to December 2023, Guyancourt  
+
+- Extracted, structured and improved CRM data quality  
+- Built Power BI dashboards to monitor performance KPIs  
+- Analyzed trends and identified improvement opportunities  
+- Led a customer satisfaction survey project (Skeepers): design, analysis and recommendations  
+- Identified friction points in customer journeys  
+- Contributed to commercial digitalization projects  
+
+---
+
+## Objective
+
+To develop analytical tools and insights that help business teams:
+
+- better understand their performance  
+- optimize decision-making (pricing, offer, strategy)  
+- identify growth and profitability opportunities  
+
+---
+
+## Technical stack
+
+Excel (Pivot Tables, modeling, data analysis)  
+Power BI (dashboards and data visualization)  
+SQL (data extraction, joins, aggregation)  
+R / SAS (statistical analysis)  
+Python (data analysis)  
 Microsoft Dynamics (CRM)  
-Pack Office  
+Microsoft Office  
 
-## Projets
+---
 
-### Mini dashboard de suivi des performances commerciales
-Objectif : fournir une vision claire et exploitable des ventes  
+## Projects
 
-Contenu :  
-- Création d’un dashboard  
-- Suivi des KPI business  
-- Analyse par pays  
-- Visualisation de la satisfaction client  
+### Commercial performance dashboard
 
-Outils : Excel  
+Objective: provide a clear and actionable view of sales performance  
 
-Lien : à venir  
+Content:  
+- Dashboard creation  
+- KPI tracking  
+- Country-level analysis  
+- Customer satisfaction visualization  
 
-## Formation
+Tools: Excel  
 
-### Master 2 Économie Internationale - Commerce  
-Université Paris 1 Panthéon-Sorbonne  
+Link: coming soon  
+
+---
+
+## Education
+
+### Master’s Degree in International Economics & Trade  
+Paris 1 Panthéon-Sorbonne University  
 2021 – 2023  
-Formation à dominante quantitative : économétrie(R, SAS), statistiques et Probabilités, Maths vancées, Techniques quantitatives (évaluatio n de politiques), Assurance (Microéconomie), Finance et commerce Internationale 
-Complétée par des enseignements en AmOA (gestion de projet Informatique), supply chain, compliance et export control et économie des transports
 
-### Licence Économie - Université Paris 1 Panthéon-Sorbonne  
+Strong quantitative focus: econometrics (R, SAS), statistics, probability, advanced mathematics, quantitative methods (policy evaluation), insurance economics (microeconomics), finance and international trade  
 
-## Approche analytique
-Mes projets suivent une logique orientée business :
-1. Compréhension du besoin métier  
-2. Structuration et fiabilisation des données  
-3. Analyse exploratoire  
-4. Modélisation ou visualisation  
-5. Recommandations opérationnelles  
+Additional coursework: IT project management (AMOA), supply chain, compliance and export control, transport economics  
 
-## Ce que je recherche
+---
+
+### Bachelor’s Degree in Economics  
+Paris 1 Panthéon-Sorbonne University  
+
+---
+
+## Analytical approach
+
+My projects follow a business-oriented methodology:
+
+1. Understanding the business need  
+2. Data structuring and cleaning  
+3. Exploratory analysis  
+4. Modeling or visualization  
+5. Actionable recommendations  
+
+---
+
+## What I’m looking for
+
 Sales Analyst  
 Pricing Analyst  
 Business Analyst  
-Data Analyst orienté business  
-Ou toute fonction analytique permettant de combiner données, compréhension business et prise de décision.
+Business-oriented Data Analyst  
 
-## Me contacter
-Email : diahandahame86@gmail.com  
+Or any analytical role combining data, business understanding and decision-making.
 
-LinkedIn : https://www.linkedin.com/in/handahame-dia/
+---
 
-Localisation : Fontenay-aux-Roses, France  
+## Contact
+
+Email: diahandahame86@gmail.com  
+LinkedIn: https://www.linkedin.com/in/handahame-dia/  
+Location: Fontenay-aux-Roses, France  
