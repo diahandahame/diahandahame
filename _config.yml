@@ -1,6 +1,42 @@
-title: "Handahamé DIA "
-logo: img/nny.jpg
-description: "From Data to Business Insights | Analytics & Pricing Portfolio"
-show download : true
-theme: jekyll-theme-minimal
-lang: en
+title: "Handahamé DIA"
+description: "Data & Business Analyst | Sales Performance & Pricing"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+# Langue
+locale: "en-US"
+
+# Auteur (affiché sur le site)
+author:
+  name: "Handahamé DIA"
+  avatar: "/img/nny.jpg"
+  bio: "Data Analyst specialized in commercial performance & pricing"
+  location: "France"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/handahame-dia/"
+
+# Affichage
+minimal_mistakes_skin: "default"  # ou "dark", "air", "contrast"
+
+# Navigation (menu)
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "About"
+    url: /about/
+
+# Defaults pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
