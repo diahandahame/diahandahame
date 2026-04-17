@@ -1,5 +1,5 @@
 title: "Handahamé DIA"
-description: " Handahamé DIA – Economic & Business Analytics Portfolio"
+description: "Handahamé DIA – Economic & Business Analytics Portfolio"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -9,10 +9,13 @@ plugins:
 # Language
 locale: "en-US"
 
+# Theme skin
+minimal_mistakes_skin: "default"  # options: air, dark, contrast, default
+
 # Author profile
 author:
   name: "Handahamé DIA"
-  avatar: "/img/nny.jpg"
+  avatar: "/assets/img/nny.jpg"
   bio: "Economist specialized in business performance, analytics & pricing"
   location: "France"
   links:
@@ -20,10 +23,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/handahame-dia/"
 
-# Theme skin
-minimal_mistakes_skin: "default"  # options: air, dark, contrast, default
-
-# Navigation (IMPORTANT: correct format for Minimal Mistakes)
+# Navigation
 header_pages:
   - index.md
   - projects.md
