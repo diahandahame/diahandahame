@@ -46,7 +46,7 @@ and business performance**:
 - Key finding: excessive discounting destroys **$99K in annual profit**
 - Tools: **Microsoft Excel** (Pivot Tables, Dynamic Formulas, KPI Dashboard)
 
-🔗 [View Project](https://github.com/diahandahame/Superstore-Excel-Dashboard)
+🔗 [View Project](https://github.com/diahandahame/Sales-Data-Analysis-Dashboard)
 
 ---
 ## 🧰 Technical Stack
