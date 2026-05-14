@@ -63,7 +63,12 @@ and business performance**:
 ---
 
 ## 🧠 Analytical Approach
-
+1. Understand the business problem
+2. Structure and clean the data
+3. Explore and analyze
+4. Model and visualize
+5. Deliver actionable recommendations
+   
 ---
 ## 💼 Experience
 
@@ -87,14 +92,6 @@ and business performance**:
 - Conducted data-driven economic studies and synthesized insights for decision-making  
 - Managed and analyzed large datasets in research environments  
 - Collaborated with multidisciplinary teams on data-driven projects  
-
----
-## 🧠 Analytical Approach
-1. Understand the business problem
-2. Structure and clean the data
-3. Explore and analyze
-4. Model and visualize
-5. Deliver actionable recommendations 
 
 ---
 
