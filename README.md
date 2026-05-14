@@ -102,7 +102,7 @@ My work follows a structured, business-oriented methodology:
 
 ## 🎓 Education
 
-**Master’s Degree in International Economics and Trade**  
+**Master’s Degree in International Economics and Environment - Trade**  
 Paris 1 Panthéon-Sorbonne University (2021 – 2023)  
 
 **Strong quantitative focus:** Econometrics (R, SAS); Statistics and probability; Advanced mathematics; Quantitative methods (policy evaluation).  
