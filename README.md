@@ -1,56 +1,70 @@
-**Handahamé DIA - Economic and Business Analytics Portfolio**
+# Handahamé DIA - Economic & Business Analytics Portfolio
 
-## 👋 About me
+## 👋 About Me
 
-Welcome to my portfolio.
+I am a quantitative economist transitioning into business analytics,
+with a strong background in econometrics, statistics, and commercial
+performance analysis.
 
-I am an economist with a strong quantitative background in econometrics, statistics, and data analysis, currently focused on business performance and data-driven decision-making.
+Through academic training at **Paris 1 Panthéon-Sorbonne** and
+professional experience at **Egis Group** and **Neoma Business School**,
+I have developed end-to-end analytical capabilities — from raw data
+structuring to actionable business recommendations.
 
-Through my academic training and professional experience, I have developed strong capabilities in data analysis, KPI monitoring, and performance evaluation, enabling me to transform complex datasets into actionable business insights.
+I am actively seeking roles at the intersection of **data, economics,
+and business performance**:
 
-I am currently looking to evolve into analytical roles at the intersection of data, economics, and business, such as:
-Business Analyst; Sales Analyst; Commercial Performance Analyst; Pricing Analyst.
+- 📊 Business Analyst
+- 💹 Sales & Commercial Performance Analyst
+- 💰 Pricing Analyst
 
-In these roles, I aim to contribute to:
-- performance analysis and KPI monitoring  
-- data-driven decision-making  
-- pricing and revenue optimization  
-- identification of growth and profitability opportunities  
-
-My objective is to leverage data and analytical tools to support **strategic and operational decision-making in competitive environments**.
+---
+## 🎯 What I Bring
+- Transform complex datasets into **clear, actionable insights**
+- Design and monitor **business KPIs** across commercial and operational dimensions
+- Identify **profit leakage, pricing inefficiencies, and growth opportunities**
+- Deliver **structured reports** tailored to decision-makers
+- Bridge the gap between **economic thinking and business strategy**
 
 ---
 
-## 🎯 What I bring
+## 📂 Featured Projects
 
-- Analysis and interpretation of commercial and economic data  
-- Design and monitoring of performance KPIs  
-- Pricing analysis and commercial optimization  
-- Data structuring, cleaning, and quality improvement  
-- Business-oriented reporting and insights  
-- Identification of growth and profitability levers  
-- Translation of complex data into actionable recommendations  
+### 🎵 Chinook Music Store — SQL Analysis
+> Business-driven SQL analysis of a digital music store
+- 26 queries across 5 business themes
+- Sales performance, customer segmentation, agent evaluation
+- Tools: **SQL Server**
+
+🔗 [View Project](https://github.com/diahandahame/Chinook-SQL-Analysis)
+
+---
+### 📊 Superstore — Sales Performance Dashboard
+> Full analytical pipeline from raw data to executive dashboard
+
+- 9,994 transactions across 49 US states (2014–2017)
+- Key finding: excessive discounting destroys **$99K in annual profit**
+- Tools: **Microsoft Excel** (Pivot Tables, Dynamic Formulas, KPI Dashboard)
+
+🔗 [View Project](https://github.com/diahandahame/Superstore-Excel-Dashboard)
+
+---
+## 🧰 Technical Stack
+
+| Category | Tools |
+|---|---|
+| **Spreadsheets** | Excel (Pivot Tables, Dynamic Formulas, Modeling) |
+| **Visualization** | Power BI, Excel Dashboards |
+| **Databases** | SQL Server, SQL (Joins, Aggregations, Views) |
+| **Statistics** | R, SAS (Econometrics, Statistical Modeling) |
+| **Programming** | Python (Data Analysis) |
+| **CRM** | Microsoft Dynamics, Sales Navigator |
 
 ---
 
-## 📂 Projects
-
-### 📊 Commercial Performance Dashboard
-
-**Objective:** Deliver a clear and actionable view of sales performance  
-
-**Key contributions:**
-- Designed dashboards for KPI tracking and performance monitoring  
-- Conducted country-level and segment-level analysis  
-- Visualized customer satisfaction insights  
-- Generated business recommendations to support decision-making  
-
-**Tools:** Excel  
-
-🔗 Link: coming soon  
+## 🧠 Analytical Approach
 
 ---
-
 ## 💼 Experience
 
 ### Commercial Performance Analyst  
@@ -75,52 +89,54 @@ My objective is to leverage data and analytical tools to support **strategic and
 - Collaborated with multidisciplinary teams on data-driven projects  
 
 ---
-
-## 🧠 Analytical approach
-
-My work follows a structured, business-oriented methodology:
-
-1. Understanding the business problem  
-2. Data structuring and cleaning  
-3. Exploratory data analysis  
-4. Modeling and visualization  
-5. Delivering actionable recommendations  
+## 🧠 Analytical Approach
+1. Understand the business problem
+2. Structure and clean the data
+3. Explore and analyze
+4. Model and visualize
+5. Deliver actionable recommendations 
 
 ---
 
-## 🧰 Technical stack
+## 💼 Experience
 
-- **Excel** (Pivot Tables, modeling, data analysis)  
-- **Power BI** (dashboards and data visualization)  
-- **SQL** (data extraction, joins, aggregation)  
-- **R / SAS** (statistical analysis, econometrics)  
-- **Python** (data analysis)  
-- **Microsoft Dynamics (CRM)**  
-- **Microsoft Office Suite**  
+**Commercial Performance Analyst** — Egis Group *(Jul–Dec 2023)*
+> CRM data quality, Power BI dashboards, customer satisfaction analysis
+
+**Research Assistant & Data Analyst** — Neoma Business School *(Jan–Oct 2025)*
+> Large-scale economic databases, econometric modeling, research synthesis
 
 ---
-
 ## 🎓 Education
 
-**Master’s Degree in International Economics and Environment - Trade**  
-Paris 1 Panthéon-Sorbonne University (2021 – 2023)  
+**Master's Degree** - International Economics & Environment
+Paris 1 Panthéon-Sorbonne University *(2021–2023)*
+> Econometrics · Statistics · Quantitative Methods · Corporate Finance
 
-**Strong quantitative focus:** Econometrics (R, SAS); Statistics and probability; Advanced mathematics; Quantitative methods (policy evaluation).  
-
-**Additional coursework:** Corporate finance and international finance; IT project management (AMOA); Supply chain and logistics; Compliance and export control.  
-
-**Bachelor’s Degree in Economics**  
-Paris 1 Panthéon-Sorbonne University  
+**Bachelor's Degree** - Economics
+Paris 1 Panthéon-Sorbonne University
 
 ---
 
-## 💼 What I’m looking for
+## 📫 Contact
 
-- Business Analyst  
-- Sales Analyst  
-- Commercial Performance Analyst  
-- Pricing Analyst  
-- Any analytical role combining data, business, and decision-making  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Handahamé_DIA-blue?logo=linkedin)](https://www.linkedin.com/in/handahame-dia/)
+[![Email](https://img.shields.io/badge/Email-diahandahame86@gmail.com-red?logo=gmail)](mailto:diahandahame86@gmail.com)
+📍 Fontenay-aux-Roses, France
+
+---
+## 💼 Open to Opportunities
+
+I am actively looking for my next role anywhere in **France or remote**,
+available immediately.
+
+- 📊 Business Analyst
+- 💹 Sales and Commercial Performance Analyst
+- 📈 Pricing Analyst
+- 🔍 Data Analyst - Business and Economics focus
+
+> Open to permanent contracts (CDI), fixed-term contracts (CDD),
+> and freelance missions.
 
 ---
 
