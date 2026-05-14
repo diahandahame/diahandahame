@@ -47,7 +47,7 @@ Regional Convergence - NAFTA - Trade Liberalization
 
 ---
 
-### 📄 Master Thesis
+### 📄 First Year Master Thesis
 **The Impact of the Use of the Northern Sea Route on Trade Dynamics**
 
 Paris 1 Pantheon-Sorbonne University - May 2022
