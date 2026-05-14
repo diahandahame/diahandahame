@@ -23,6 +23,47 @@ structuring to actionable business recommendations.
 
 ---
 
+## 📝 Publications and Research
+
+### 📖 Published Book Chapter
+**Human Capital Formation in Mexico: The Role of Foreign Direct Investment
+in Shaping Educational Gender Gaps and Regional Convergence**
+
+Co-authored with Alfonso Carballo and Margherita Corina (NEOMA Business School)
+
+> Published in *Augmenting National and International Human Capital*
+> Edward Elgar Publishing - April 2026 - Pages 22-47
+
+Key contributions:
+- Causal analysis of FDI impact on educational attainment in Mexico (1980-2020)
+- Instrumental Variables (IV) framework using U.S. GDP fluctuations as external instrument
+- Evidence of educational convergence across Mexican states following NAFTA
+- Gender gap analysis showing FDI narrows educational disparities in high-inflow regions
+
+Keywords: Human Capital - Foreign Direct Investment - Educational Gender Gaps -
+Regional Convergence - NAFTA - Trade Liberalization
+
+🔗 [View Publication](https://doi.org/10.4337/9781035318285.00011)
+
+---
+
+### 📄 Master Thesis
+**The Impact of the Use of the Northern Sea Route on Trade Dynamics**
+
+Paris 1 Pantheon-Sorbonne University - May 2022
+
+> Directed by Professor Lea Marchal
+
+Key contributions:
+- Bilateral trade econometric model (460 observations, 2015-2019)
+- Gravity model adapted to assess NSR vs Suez Canal trade dynamics
+- Evidence that NSR reduces trade costs and increases export volumes
+- Analysis of ice melting, maritime integration and GDP elasticities
+
+🔗 [View Thesis](https://drive.google.com/file/d/1xFDOxcr0H9_-4A5F4nVFabC5AlgTx-2A/view?usp=drive_link)
+
+---
+
 ## 📂 Featured Projects
 
 ### 🎵 Chinook Music Store - SQL Analysis
