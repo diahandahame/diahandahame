@@ -114,14 +114,6 @@ Paris 1 Panthéon-Sorbonne University *(2021–2023)*
 Paris 1 Panthéon-Sorbonne University
 
 ---
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Handahamé_DIA-blue?logo=linkedin)](https://www.linkedin.com/in/handahame-dia/)
-[![Email](https://img.shields.io/badge/Email-diahandahame86@gmail.com-red?logo=gmail)](mailto:diahandahame86@gmail.com)
-📍 Fontenay-aux-Roses, France
-
----
 ## 💼 Open to Opportunities
 
 I am actively looking for my next role anywhere in **France or remote**,
@@ -139,6 +131,6 @@ available immediately.
 
 ## 📫 Contact
 
-- 📧 Email: diahandahame86@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/handahame-dia/  
-- 📍 Location: Fontenay-aux-Roses, France  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Handahamé_DIA-blue?logo=linkedin)](https://www.linkedin.com/in/handahame-dia/)
+[![Email](https://img.shields.io/badge/Email-diahandahame86@gmail.com-red?logo=gmail)](mailto:diahandahame86@gmail.com)
+📍 Fontenay-aux-Roses, France
