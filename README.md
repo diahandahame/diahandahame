@@ -159,5 +159,9 @@ available immediately.
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Handahamé_DIA-blue?logo=linkedin)](https://www.linkedin.com/in/handahame-dia/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-diahandahame-black?logo=github)](https://github.com/diahandahame)
+
 [![Email](https://img.shields.io/badge/Email-diahandahame86@gmail.com-red?logo=gmail)](mailto:diahandahame86@gmail.com)
+
 📍 Fontenay-aux-Roses, France
