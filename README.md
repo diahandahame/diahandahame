@@ -84,7 +84,7 @@ Key contributions:
 - Key finding: excessive discounting destroys **$99K in annual profit**
 - Tools: **Microsoft Excel** (Pivot Tables, Dynamic Formulas, KPI Dashboard)
 
-🔗 [View Project](//https://github.com/diahandahame/Sales-Analysis-Excel-Dashboard)
+🔗 [View Project](https://github.com/diahandahame/Sales-Analysis-Excel-Dashboard)
 
 ---
 
