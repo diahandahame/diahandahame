@@ -66,6 +66,32 @@ Key contributions:
 
 ## 📂 Featured Projects
 
+### 📊 Superstore Global - Sales Performance Power BI Dashboard
+> Interactive Power BI dashboard delivering executive-level insights
+> on global retail performance
+
+- 51,290 transactions across multiple regions worldwide (2011-2014)
+- 5 interactive pages covering sales, regional profitability,
+  category performance, discount impact and seasonal trends
+- Key finding: excessive discounting is the primary driver
+  of **profit leakage** across all regions
+- Tools: **Power BI** (DAX, Power Query, Interactive Dashboard)
+
+🔗 [View Project](https://github.com/diahandahame/Superstore-PowerBI-Dashboard)
+
+---
+
+### 📊 Superstore - Sales Performance Excel Dashboard
+> Full analytical pipeline from raw data to executive dashboard
+
+- 9,994 transactions across 49 US states (2014-2017)
+- Key finding: excessive discounting destroys **$99K in annual profit**
+- Tools: **Microsoft Excel** (Pivot Tables, Dynamic Formulas, KPI Dashboard)
+
+🔗 [View Project](https://github.com/diahandahame/Sales-Analysis-Excel-Dashboard)
+
+---
+
 ### 🎵 Chinook Music Store - SQL Analysis
 > Business-driven SQL analysis of a digital music store
 
@@ -77,23 +103,12 @@ Key contributions:
 
 ---
 
-### 📊 Superstore - Sales Performance Dashboard
-> Full analytical pipeline from raw data to executive dashboard
-
-- 9,994 transactions across 49 US states (2014-2017)
-- Key finding: excessive discounting destroys **$99K in annual profit**
-- Tools: **Microsoft Excel** (Pivot Tables, Dynamic Formulas, KPI Dashboard)
-
-🔗 [View Project](https://github.com/diahandahame/Sales-Analysis-Excel-Dashboard)
-
----
-
 ## 🧰 Technical Stack
 
 | Category | Tools |
 |---|---|
 | **Spreadsheets** | Excel (Pivot Tables, Dynamic Formulas, Modeling) |
-| **Visualization** | Power BI, Excel Dashboards |
+| **Visualization** | Power BI (DAX, Power Query, Interactive Dashboards) |
 | **Databases** | SQL Server, SQL (Joins, Aggregations, Views) |
 | **Statistics** | R, SAS (Econometrics, Statistical Modeling) |
 | **Programming** | Python (Data Analysis) |
