@@ -26,29 +26,36 @@ structuring to actionable business recommendations.
 ## 📝 Publications and Research
 
 ### 📖 Published Book Chapter
-**Human Capital Formation in Mexico: The Role of Foreign Direct Investment
-in Shaping Educational Gender Gaps and Regional Convergence**
+**Human Capital Formation in Mexico: The Role of Foreign Direct
+Investment in Shaping Educational Gender Gaps and Regional Convergence**
 
-Co-authored with Alfonso Carballo and Margherita Corina (NEOMA Business School)
+Co-authored with Alfonso Carballo and Margherita Corina
+(NEOMA Business School)
 
 > Published in *Augmenting National and International Human Capital*
 > Edward Elgar Publishing - April 2026 - Pages 22-47
 
 Key contributions:
-- Causal analysis of FDI impact on educational attainment in Mexico (1980-2020)
-- Instrumental Variables (IV) framework using U.S. GDP fluctuations as external instrument
-- Evidence of educational convergence across Mexican states following NAFTA
-- Gender gap analysis showing FDI narrows educational disparities in high-inflow regions
+- Causal analysis of FDI impact on educational attainment
+  in Mexico (1980-2020)
+- Instrumental Variables (IV) framework using U.S. GDP
+  fluctuations as external instrument
+- Evidence of educational convergence across Mexican states
+  following NAFTA
+- Gender gap analysis showing FDI narrows educational
+  disparities in high-inflow regions
 
-Keywords: Human Capital - Foreign Direct Investment - Educational Gender Gaps -
-Regional Convergence - NAFTA - Trade Liberalization
+Keywords: Human Capital - Foreign Direct Investment -
+Educational Gender Gaps - Regional Convergence -
+NAFTA - Trade Liberalization
 
 🔗 [View Publication](https://doi.org/10.4337/9781035318285.00011)
 
 ---
 
 ### 📄 First Year Master Thesis
-**The Impact of the Use of the Northern Sea Route on Trade Dynamics**
+**The Impact of the Use of the Northern Sea Route
+on Trade Dynamics**
 
 Paris 1 Pantheon-Sorbonne University - May 2022
 
@@ -66,9 +73,23 @@ Key contributions:
 
 ## 📂 Featured Projects
 
+### 🏢 AdventureWorks - Advanced SQL Business Analysis
+> 15 business queries on a multinational manufacturer database
+
+- Sales performance, customer segmentation, product profitability
+  and supply chain quality across 5 business themes
+- Key finding : 509 VIP customers (2.6% of base) generate
+  **73% of total revenue**
+- Tools: **SQL Server** (JOINs, Subqueries, CASE WHEN,
+  CAST, FLOAT, Financial Calculations)
+
+🔗 [View Project](https://github.com/diahandahame/AdventureWorks-SQL-Analysis)
+
+---
+
 ### 📊 Superstore Global - Sales Performance Power BI Dashboard
-> Interactive Power BI dashboard delivering executive-level insights
-> on global retail performance
+> Interactive Power BI dashboard delivering executive-level
+> insights on global retail performance
 
 - 51,290 transactions across multiple regions worldwide (2011-2014)
 - 5 interactive pages covering sales, regional profitability,
@@ -86,7 +107,8 @@ Key contributions:
 
 - 9,994 transactions across 49 US states (2014-2017)
 - Key finding: excessive discounting destroys **$99K in annual profit**
-- Tools: **Microsoft Excel** (Pivot Tables, Dynamic Formulas, KPI Dashboard)
+- Tools: **Microsoft Excel** (Pivot Tables, Dynamic Formulas,
+  KPI Dashboard)
 
 🔗 [View Project](https://github.com/diahandahame/Sales-Analysis-Excel-Dashboard)
 
@@ -109,40 +131,24 @@ Key contributions:
 |---|---|
 | **Spreadsheets** | Excel (Pivot Tables, Dynamic Formulas, Modeling) |
 | **Visualization** | Power BI (DAX, Power Query, Interactive Dashboards) |
-| **Databases** | SQL Server, SQL (Joins, Aggregations, Views) |
+| **Databases** | SQL Server (Joins, Subqueries, Window Functions) |
 | **Statistics** | R, SAS (Econometrics, Statistical Modeling) |
 | **Programming** | Python (Data Analysis) |
 | **CRM** | Microsoft Dynamics, Sales Navigator |
 
 ---
 
-## 🧠 Analytical Approach
-
-1. Understand the business problem
-2. Structure and clean the data
-3. Explore and analyze
-4. Model and visualize
-5. Deliver actionable recommendations
-
----
-
 ## 💼 Experience
 
-**Commercial Performance Analyst** - Egis Group *(Jul - Dec 2023 | Guyancourt)*
-- Extracted, structured, and improved CRM data quality
-- Developed Power BI and Excel dashboards to monitor commercial KPIs
-- Analyzed performance trends and identified optimization opportunities
-- Led a customer satisfaction survey project (design, analysis, recommendations)
-- Identified friction points across customer journeys
-- Contributed to commercial digitalization initiatives
+**Commercial Performance Analyst** - Egis Group
+*(Jul - Dec 2023 | Guyancourt)*
+Power BI and Excel dashboards, CRM analytics,
+customer satisfaction analysis
 
-**Research Assistant and Data Analyst** - Neoma Business School *(Jan - Oct 2025 | Reims)*
-- Built and structured large-scale economic databases
-- Developed statistical and econometric models for descriptive and explanatory analysis
-- Conducted data-driven economic studies and synthesized insights for decision-making
-- Managed and analyzed large datasets in research environments
-- Collaborated with multidisciplinary teams on data-driven projects
-
+**Research Assistant and Data Analyst** - Neoma Business School
+*(Jan - Oct 2025 | Reims)*
+Large-scale economic databases, econometric modeling,
+data-driven research synthesis
 ---
 
 ## 🎓 Education
@@ -158,8 +164,8 @@ Paris 1 Panthéon-Sorbonne University
 
 ## 💼 Open to Opportunities
 
-I am actively looking for my next role anywhere in **France or remote**,
-available immediately.
+I am actively looking for my next role anywhere in
+**France or remote**, available immediately.
 
 - 📊 Business Analyst
 - 💹 Sales and Commercial Performance Analyst
