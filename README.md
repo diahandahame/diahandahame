@@ -2,14 +2,9 @@
 
 ## 👋 About Me
 
-I am a quantitative economist transitioning into business analytics,
-with a strong background in econometrics, statistics, and commercial
-performance analysis.
+I am a quantitative economist transitioning into business analytics, with a strong background in econometrics, statistics, and commercial performance analysis.
 
-Through academic training at **Paris 1 Panthéon-Sorbonne** and
-professional experience at **Egis Group** and **Neoma Business School**,
-I have developed end-to-end analytical capabilities, from raw data
-structuring to actionable business recommendations.
+Through academic training at **Paris 1 Panthéon-Sorbonne** and professional experience at **Egis Group** and **Neoma Business School**, I have developed end-to-end analytical capabilities, from raw data structuring to actionable business recommendations.
 
 ---
 
@@ -29,33 +24,23 @@ structuring to actionable business recommendations.
 **Human Capital Formation in Mexico: The Role of Foreign Direct
 Investment in Shaping Educational Gender Gaps and Regional Convergence**
 
-Co-authored with Alfonso Carballo and Margherita Corina
-(NEOMA Business School)
+Co-authored with Alfonso Carballo and Margherita Corina (NEOMA Business School)
 
 > Published in *Augmenting National and International Human Capital*
 > Edward Elgar Publishing - April 2026 - Pages 22-47
 
 Key contributions:
-- Causal analysis of FDI impact on educational attainment
-  in Mexico (1980-2020)
-- Instrumental Variables (IV) framework using U.S. GDP
-  fluctuations as external instrument
-- Evidence of educational convergence across Mexican states
-  following NAFTA
-- Gender gap analysis showing FDI narrows educational
-  disparities in high-inflow regions
-
-Keywords: Human Capital - Foreign Direct Investment -
-Educational Gender Gaps - Regional Convergence -
-NAFTA - Trade Liberalization
+- Causal analysis of FDI impact on educational attainment in Mexico (1980-2020)
+- Instrumental Variables (IV) framework using U.S. GDP fluctuations as external instrument
+- Evidence of educational convergence across Mexican states following NAFTA
+- Gender gap analysis showing FDI narrows educational disparities in high-inflow regions
 
 🔗 [View Publication](https://doi.org/10.4337/9781035318285.00011)
 
 ---
 
 ### 📄 First Year Master Thesis
-**The Impact of the Use of the Northern Sea Route
-on Trade Dynamics**
+**The Impact of the Use of the Northern Sea Route on Trade Dynamics**
 
 Paris 1 Pantheon-Sorbonne University - May 2022
 
@@ -65,7 +50,6 @@ Key contributions:
 - Bilateral trade econometric model (460 observations, 2015-2019)
 - Gravity model adapted to assess NSR vs Suez Canal trade dynamics
 - Evidence that NSR reduces trade costs and increases export volumes
-- Analysis of ice melting, maritime integration and GDP elasticities
 
 🔗 [View Thesis](https://drive.google.com/file/d/1xFDOxcr0H9_-4A5F4nVFabC5AlgTx-2A/view?usp=drive_link)
 
@@ -73,15 +57,35 @@ Key contributions:
 
 ## 📂 Featured Projects
 
+### 🛍️ Mall Customer Segmentation
+> K-Means and CAH clustering analysis of 200 mall customers
+
+- 5 distinct customer segments identified across income and spending dimensions
+- Key finding : Careful High Earners ($88K income, score 17/100) represent the biggest untapped revenue opportunity
+- Algorithms : K-Means, CAH, Elbow Method, Silhouette Score, 3D Visualization
+- Tools : **Python** (Pandas, Scikit-learn, Matplotlib, Seaborn)
+
+🔗 [View Project](https://github.com/diahandahame/Mall-Customer-Segmentation)
+
+---
+
+### 🛒 Superstore Global — Exploratory Data Analysis
+> Bivariate analysis and business insights on 51,290 transactions
+
+- Univariate, bivariate and correlation analysis
+- Key finding : 6,961 high-discount orders average -$90 profit each? capping discounts at 20% recovers ~$627K in profit
+- Tools : **Python** (Pandas, Matplotlib, Seaborn)
+
+🔗 [View Project](https://github.com/diahandahame/Superstore-Python-EDA)
+
+---
+
 ### 🏢 AdventureWorks - Advanced SQL Business Analysis
 > 15 business queries on a multinational manufacturer database
 
-- Sales performance, customer segmentation, product profitability
-  and supply chain quality across 5 business themes
-- Key finding : 509 VIP customers (2.6% of base) generate
-  **73% of total revenue**
-- Tools: **SQL Server** (JOINs, Subqueries, CASE WHEN,
-  CAST, FLOAT, Financial Calculations)
+- Sales performance, customer segmentation, product profitability and supply chain quality across 5 business themes
+- Key finding : 509 VIP customers (2.6% of base) generate **73% of total revenue**
+- Tools: **SQL Server** (JOINs, Subqueries, CASE WHEN, CAST, FLOAT, Financial Calculations)
 
 🔗 [View Project](https://github.com/diahandahame/AdventureWorks-SQL-Analysis)
 
@@ -92,10 +96,8 @@ Key contributions:
 > insights on global retail performance
 
 - 51,290 transactions across multiple regions worldwide (2011-2014)
-- 5 interactive pages covering sales, regional profitability,
-  category performance, discount impact and seasonal trends
-- Key finding: excessive discounting is the primary driver
-  of **profit leakage** across all regions
+- 5 interactive pages covering sales, regional profitability, category performance, discount impact and seasonal trends
+- Key finding: excessive discounting is the primary driver of **profit leakage** across all regions
 - Tools: **Power BI** (DAX, Power Query, Interactive Dashboard)
 
 🔗 [View Project](https://github.com/diahandahame/Superstore-PowerBI-Dashboard)
@@ -107,8 +109,7 @@ Key contributions:
 
 - 9,994 transactions across 49 US states (2014-2017)
 - Key finding: excessive discounting destroys **$99K in annual profit**
-- Tools: **Microsoft Excel** (Pivot Tables, Dynamic Formulas,
-  KPI Dashboard)
+- Tools: **Microsoft Excel** (Pivot Tables, Dynamic Formulas, KPI Dashboard)
 
 🔗 [View Project](https://github.com/diahandahame/Sales-Analysis-Excel-Dashboard)
 
@@ -133,8 +134,19 @@ Key contributions:
 | **Visualization** | Power BI (DAX, Power Query, Interactive Dashboards) |
 | **Databases** | SQL Server (Joins, Subqueries, Window Functions) |
 | **Statistics** | R, SAS (Econometrics, Statistical Modeling) |
-| **Programming** | Python (Data Analysis) |
+| **Programming** | Python (Pandas, Scikit-learn, Matplotlib, Seaborn) |
+| **Machine Learning** | K-Means, CAH, Clustering, Dimensionality Reduction |
 | **CRM** | Microsoft Dynamics, Sales Navigator |
+
+---
+
+## 🧠 Analytical Approach
+
+1. Understand the business problem
+2. Structure and clean the data
+3. Explore and analyze
+4. Model and visualize
+5. Deliver actionable recommendations
 
 ---
 
@@ -147,8 +159,8 @@ customer satisfaction analysis
 
 **Research Assistant and Data Analyst** - Neoma Business School
 *(Jan - Oct 2025 | Reims)*
-Large-scale economic databases, econometric modeling,
-data-driven research synthesis
+Large-scale economic databases, econometric modeling, data-driven research synthesis
+
 ---
 
 ## 🎓 Education
@@ -164,8 +176,7 @@ Paris 1 Panthéon-Sorbonne University
 
 ## 💼 Open to Opportunities
 
-I am actively looking for my next role anywhere in
-**France or remote**, available immediately.
+I am actively looking for my next role anywhere in **France or remote**, available immediately.
 
 - 📊 Business Analyst
 - 💹 Sales and Commercial Performance Analyst
