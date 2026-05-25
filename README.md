@@ -69,7 +69,7 @@ Key contributions:
 
 ---
 
-### 🛒 Superstore Global — Exploratory Data Analysis
+### 🛒 Superstore Global - Exploratory Data Analysis
 > Bivariate analysis and business insights on 51,290 transactions
 
 - Univariate, bivariate and correlation analysis
