@@ -65,7 +65,7 @@ Key contributions:
 - Key finding : Type A stores generate 3.5x more revenue per store than Type C
 - Tools : **Python** (Pandas, Prophet, Matplotlib, Seaborn)
 
-🔗 [View Project](https://github.com/diahandahame/Store-Sales-Time-Series-Forecasting)
+🔗 [View Project](https://github.com/diahandahame/Store-Sales-Forecasting-Python-Time-Series)
 
 ---
 
