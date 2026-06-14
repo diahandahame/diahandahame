@@ -81,7 +81,7 @@ Key contributions:
 
 ---
 
-### 🛒 Superstore Global — Exploratory Data Analysis
+### 🛒 Superstore Global - Exploratory Data Analysis
 > Bivariate analysis and business insights on 51,290 transactions
 
 - Univariate, bivariate and correlation analysis
@@ -92,7 +92,7 @@ Key contributions:
 
 ---
 
-### 🏢 AdventureWorks — Advanced SQL Business Analysis
+### 🏢 AdventureWorks - Advanced SQL Business Analysis
 > 15 business queries on a multinational manufacturer database
 
 - Sales performance, customer segmentation, product profitability and supply chain quality across 5 business themes
@@ -103,7 +103,7 @@ Key contributions:
 
 ---
 
-### 📊 Superstore Global — Sales Performance Power BI Dashboard
+### 📊 Superstore Global - Sales Performance Power BI Dashboard
 > Interactive Power BI dashboard delivering executive-level
 > insights on global retail performance
 
@@ -116,7 +116,7 @@ Key contributions:
 
 ---
 
-### 📊 Superstore — Sales Performance Excel Dashboard
+### 📊 Superstore - Sales Performance Excel Dashboard
 > Full analytical pipeline from raw data to executive dashboard
 
 - 9,994 transactions across 49 US states (2014-2017)
@@ -127,7 +127,7 @@ Key contributions:
 
 ---
 
-### 🎵 Chinook Music Store — SQL Analysis
+### 🎵 Chinook Music Store - SQL Analysis
 > Business-driven SQL analysis of a digital music store
 
 - 26 queries across 5 business themes
