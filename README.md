@@ -21,8 +21,7 @@ Through academic training at **Paris 1 Panthéon-Sorbonne** and professional exp
 ## 📝 Publications and Research
 
 ### 📖 Published Book Chapter
-**Human Capital Formation in Mexico: The Role of Foreign Direct
-Investment in Shaping Educational Gender Gaps and Regional Convergence**
+**Human Capital Formation in Mexico: The Role of Foreign Direct Investment in Shaping Educational Gender Gaps and Regional Convergence**
 
 Co-authored with Alfonso Carballo and Margherita Corina (NEOMA Business School)
 
@@ -33,7 +32,7 @@ Key contributions:
 - Causal analysis of FDI impact on educational attainment in Mexico (1980-2020)
 - Instrumental Variables (IV) framework using U.S. GDP fluctuations as external instrument
 - Evidence of educational convergence across Mexican states following NAFTA
-- Gender gap analysis showing FDI narrows educational disparities in high-inflow regions
+- Gender gap analysis showing FDI narrows educational  disparities in high-inflow regions
 
 🔗 [View Publication](https://doi.org/10.4337/9781035318285.00011)
 
@@ -57,6 +56,19 @@ Key contributions:
 
 ## 📂 Featured Projects
 
+### 🏪 Store Sales - Time Series Forecasting
+> Prophet forecasting on 3M rows of Ecuador store sales data
+
+- 54 stores · 33 product families · 2013-2017
+- Base Prophet model : MAPE 14.75%
+- Improved with oil price and promotions as external regressors : MAPE 14.06%
+- Key finding : Type A stores generate 3.5x more revenue per store than Type C
+- Tools : **Python** (Pandas, Prophet, Matplotlib, Seaborn)
+
+🔗 [View Project](https://github.com/diahandahame/Store-Sales-Time-Series-Forecasting)
+
+---
+
 ### 🛍️ Mall Customer Segmentation
 > K-Means and CAH clustering analysis of 200 mall customers
 
@@ -69,18 +81,18 @@ Key contributions:
 
 ---
 
-### 🛒 Superstore Global - Exploratory Data Analysis
+### 🛒 Superstore Global — Exploratory Data Analysis
 > Bivariate analysis and business insights on 51,290 transactions
 
 - Univariate, bivariate and correlation analysis
-- Key finding : 6,961 high-discount orders average -$90 profit each? capping discounts at 20% recovers ~$627K in profit
+- Key finding : 6,961 high-discount orders average -$90 profit each — capping discounts at 20% recovers ~$627K in profit
 - Tools : **Python** (Pandas, Matplotlib, Seaborn)
 
 🔗 [View Project](https://github.com/diahandahame/Superstore-Python-EDA)
 
 ---
 
-### 🏢 AdventureWorks - Advanced SQL Business Analysis
+### 🏢 AdventureWorks — Advanced SQL Business Analysis
 > 15 business queries on a multinational manufacturer database
 
 - Sales performance, customer segmentation, product profitability and supply chain quality across 5 business themes
@@ -91,7 +103,7 @@ Key contributions:
 
 ---
 
-### 📊 Superstore Global - Sales Performance Power BI Dashboard
+### 📊 Superstore Global — Sales Performance Power BI Dashboard
 > Interactive Power BI dashboard delivering executive-level
 > insights on global retail performance
 
@@ -104,7 +116,7 @@ Key contributions:
 
 ---
 
-### 📊 Superstore - Sales Performance Excel Dashboard
+### 📊 Superstore — Sales Performance Excel Dashboard
 > Full analytical pipeline from raw data to executive dashboard
 
 - 9,994 transactions across 49 US states (2014-2017)
@@ -115,7 +127,7 @@ Key contributions:
 
 ---
 
-### 🎵 Chinook Music Store - SQL Analysis
+### 🎵 Chinook Music Store — SQL Analysis
 > Business-driven SQL analysis of a digital music store
 
 - 26 queries across 5 business themes
@@ -134,8 +146,8 @@ Key contributions:
 | **Visualization** | Power BI (DAX, Power Query, Interactive Dashboards) |
 | **Databases** | SQL Server (Joins, Subqueries, Window Functions) |
 | **Statistics** | R, SAS (Econometrics, Statistical Modeling) |
-| **Programming** | Python (Pandas, Scikit-learn, Matplotlib, Seaborn) |
-| **Machine Learning** | K-Means, CAH, Clustering, Dimensionality Reduction |
+| **Programming** | Python (Pandas, Scikit-learn, Prophet, Matplotlib, Seaborn) |
+| **Machine Learning** | K-Means, CAH, Clustering, Time Series Forecasting |
 | **CRM** | Microsoft Dynamics, Sales Navigator |
 
 ---
@@ -154,8 +166,7 @@ Key contributions:
 
 **Commercial Performance Analyst** - Egis Group
 *(Jul - Dec 2023 | Guyancourt)*
-Power BI and Excel dashboards, CRM analytics,
-customer satisfaction analysis
+Power BI and Excel dashboards, CRM analytics, customer satisfaction analysis
 
 **Research Assistant and Data Analyst** - Neoma Business School
 *(Jan - Oct 2025 | Reims)*
